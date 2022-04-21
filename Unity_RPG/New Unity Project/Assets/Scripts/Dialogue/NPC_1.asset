@@ -13,18 +13,18 @@ MonoBehaviour:
   m_Name: NPC_1
   m_EditorClassIdentifier: 
   actor: {fileID: 1558206691714643998, guid: c95f408321cfc26be94e3ce2a1131378, type: 3}
-  speakerSprite: {fileID: 1899041981, guid: 7b081064d2479a068be7fe62c540bf0f, type: 3}
-  sentence: Ola,  mundo!
+  speakerSprite: {fileID: 0}
+  sentence: 
   dialogues:
   - actorName: 
-    profile: {fileID: 0}
+    profile: {fileID: -1300926099, guid: fb71a22106384fef58c7cb1bba299d8f, type: 3}
     sentence:
-      portuguese: 
+      portuguese: Ola mundo
       english: 
       spanish: 
   - actorName: 
     profile: {fileID: 0}
     sentence:
-      portuguese: 
+      portuguese: Tudo Bem?
       english: 
       spanish: 
