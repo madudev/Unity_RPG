@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 720b8565304cb5190a82be6104b99df6
+guid: 6429a8214b2beb87a9b8fd66721f50c2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,7 +104,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: longhair_idle_strip9_0
+      name: base_idle_strip9_0
       rect:
         serializedVersion: 2
         x: 0
@@ -118,14 +118,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf97a73b761baf863a64e5803141ea1c
-      internalID: 2073314831
+      spriteID: 57951346b2bed0d44870fc4937479bb3
+      internalID: -1300926099
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: longhair_idle_strip9_1
+      name: base_idle_strip9_1
       rect:
         serializedVersion: 2
         x: 96
@@ -139,14 +139,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3402b71a28cc7bc19aaf626e2b469975
-      internalID: -1373991462
+      spriteID: 0887da5dda58bd7f5bb40cb129eba2be
+      internalID: -1251992098
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: longhair_idle_strip9_2
+      name: base_idle_strip9_2
       rect:
         serializedVersion: 2
         x: 192
@@ -160,14 +160,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3f289f279529ed81b779cc5ea439e0c
-      internalID: 1962476158
+      spriteID: f02bdf550f3a02e72a4d2a76ae822c9d
+      internalID: 1230911963
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: longhair_idle_strip9_3
+      name: base_idle_strip9_3
       rect:
         serializedVersion: 2
         x: 288
@@ -181,14 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 67236ee20af67eae2bff28df828e7447
-      internalID: -683824436
+      spriteID: 714971166e4835a1a84452b6c34b863a
+      internalID: 1605740091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: longhair_idle_strip9_4
+      name: base_idle_strip9_4
       rect:
         serializedVersion: 2
         x: 384
@@ -202,14 +202,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4511d2b6ef9e66abfa8e5f0513c48bb1
-      internalID: -1030924152
+      spriteID: a6b320e78f4f0f8f8bcf2b9b6667d9f5
+      internalID: -431230204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: longhair_idle_strip9_5
+      name: base_idle_strip9_5
       rect:
         serializedVersion: 2
         x: 480
@@ -223,14 +223,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a95c18174a68b59f8857fa646847f3b
-      internalID: -482154457
+      spriteID: 49fcb203d5aa30f49bcce7166b8a4e5d
+      internalID: -499506246
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: longhair_idle_strip9_6
+      name: base_idle_strip9_6
       rect:
         serializedVersion: 2
         x: 576
@@ -244,14 +244,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8feccd946df706f159d618fc928ac36c
-      internalID: 683192750
+      spriteID: 1fa8ddbb59e8ed9e39c825e777a330e8
+      internalID: -141121240
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: longhair_idle_strip9_7
+      name: base_idle_strip9_7
       rect:
         serializedVersion: 2
         x: 672
@@ -265,14 +265,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 815183966294ab5718d6191ba76efc29
-      internalID: 871334049
+      spriteID: 443aed9dcc43964c68a01be256d56f9b
+      internalID: -1129305565
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: longhair_idle_strip9_8
+      name: base_idle_strip9_8
       rect:
         serializedVersion: 2
         x: 768
@@ -286,8 +286,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee1b6fb3fcc32ac9fb7b566af39647b4
-      internalID: 2101062605
+      spriteID: c9d0e1597a48c58109e591eb3012f05b
+      internalID: 1067519184
       vertices: []
       indices: 
       edges: []
@@ -303,15 +303,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      longhair_idle_strip9_7: 871334049
-      longhair_idle_strip9_1: -1373991462
-      longhair_idle_strip9_5: -482154457
-      longhair_idle_strip9_3: -683824436
-      longhair_idle_strip9_6: 683192750
-      longhair_idle_strip9_8: 2101062605
-      longhair_idle_strip9_4: -1030924152
-      longhair_idle_strip9_2: 1962476158
-      longhair_idle_strip9_0: 2073314831
+      base_idle_strip9_1: -1251992098
+      base_idle_strip9_2: 1230911963
+      base_idle_strip9_5: -499506246
+      base_idle_strip9_4: -431230204
+      base_idle_strip9_3: 1605740091
+      base_idle_strip9_6: -141121240
+      base_idle_strip9_7: -1129305565
+      base_idle_strip9_8: 1067519184
+      base_idle_strip9_0: -1300926099
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
