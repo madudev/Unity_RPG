@@ -19,12 +19,18 @@ MonoBehaviour:
   - actorName: 
     profile: {fileID: -1300926099, guid: fb71a22106384fef58c7cb1bba299d8f, type: 3}
     sentence:
-      portuguese: Ola mundo
+      portuguese: Ola forasteiro
       english: 
-      spanish: 
+      spanish: Un forasteroooooo!!!!!
   - actorName: 
     profile: {fileID: 0}
     sentence:
       portuguese: Tudo Bem?
       english: 
-      spanish: 
+      spanish: Voymos advierte los demas!
+  - actorName: 
+    profile: {fileID: 0}
+    sentence:
+      portuguese: 
+      english: 
+      spanish: Lo quiero cacir!
