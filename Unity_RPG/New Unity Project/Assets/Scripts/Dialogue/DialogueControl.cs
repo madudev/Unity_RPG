@@ -24,11 +24,13 @@ public class DialogueControl : MonoBehaviour
     public float typingSpeed; // velocidade da fala
 
     // variaves de controle 
-    private bool isShowing; // se a janela está visivel
+    [HideInInspector]public bool isShowing; // se a janela está visivel
     private int index; //array das falas
     private string[] sentences;
 
     public static DialogueControl instance;
+
+    public bool IsShowing { get => isShowing; set => isShowing = value;}
 
     private void Awake()
     {
